@@ -29,7 +29,6 @@ url={https://openreview.net/forum?id=n0lDbIKVAT}
 ## Acknowledgement
 
 This repository is based on and derived from the implementation accompanying
-the paper **READ**, and its official GitHub repository:
-[https://github.com/XLearning-SCU/2024-ICLR-READ](https://github.com/XLearning-SCU/2024-ICLR-READ).
+the paper **READ**(https://github.com/XLearning-SCU/2024-ICLR-READ) and **TENT**(https://github.com/DequanWang/tent)
 The original code is licensed under the Apache License 2.0.
 
