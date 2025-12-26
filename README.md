@@ -41,7 +41,7 @@ If you find **2LTTA** useful for your research, please cite the following papers
   pages     = {1--8},
   doi       = {10.1109/IJCNN64981.2025.11228216}
 }
-
+```
 
 ## Acknowledgement
 
