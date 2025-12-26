@@ -9,6 +9,10 @@ implementation provided in the **READ** repository
 ([GitHub](https://github.com/XLearning-SCU/2024-ICLR-READ)).
 All datasets should be placed in the `data_path` directory under the project root.
 
+Pretrained models for VGGSound and KS50 are available in the READ repository
+([GitHub](https://github.com/XLearning-SCU/2024-ICLR-READ)).
+
+
 
 ## Reproduce
 python run_read.py --dataset 'ks50' --json-root 'code_path/json_csv_files/ks50' --label-csv 'code_path/json_csv_files/class_labels_indices_ks50.csv' --pretrain_path 'code_path/pretrained_model/cav_mae_ks50.pth' --tta-method '2LTTA' --severity-start 5 --severity-end 5 --corruption-modality 'video'
