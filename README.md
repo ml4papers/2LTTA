@@ -28,15 +28,20 @@ scikit-learn==0.22.1
 numpy==1.21.6
 
 ## Citation
-If 2LTTA is useful for your research, please cite the following paper:
-@inproceedings{
-lei2024twolevel,
-title={Two-Level Test-Time Adaptation in Multimodal Learning},
-author={Jixiang Lei and Franz Pernkopf},
-booktitle={ICML 2024 Workshop on Foundation Models in the Wild},
-year={2024},
-url={https://openreview.net/forum?id=n0lDbIKVAT}
+If you find **2LTTA** useful for your research, please cite the following papers.
+
+### IJCNN 2025 (Extended Version – Preferred)
+```bibtex
+@inproceedings{lei2025twolevel,
+  author    = {Lei, Jixiang and Pernkopf, Franz},
+  title     = {Two-Level Test-Time Adaptation in Multimodal Learning},
+  booktitle = {2025 International Joint Conference on Neural Networks (IJCNN)},
+  year      = {2025},
+  address   = {Rome, Italy},
+  pages     = {1--8},
+  doi       = {10.1109/IJCNN64981.2025.11228216}
 }
+
 
 ## Acknowledgement
 
