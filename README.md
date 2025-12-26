@@ -1,7 +1,16 @@
 # 2LTTA
+
 Official code release for the paper  
-**Two-Level Test-Time Adaptation in Multimodal Learning**  
-(ICML 2024 FM-Wild Workshop; IJCNN 2025)
+**Two-Level Test-Time Adaptation in Multimodal Learning**
+
+## 📄 Papers
+
+- **ICML 2024 FM-Wild Workshop**  
+  [OpenReview PDF](https://openreview.net/pdf?id=n0lDbIKVAT)
+
+- **IJCNN 2025**  
+  [IEEE Xplore](https://ieeexplore.ieee.org/document/11228216)
+
 
 ## Benchmarks
 
