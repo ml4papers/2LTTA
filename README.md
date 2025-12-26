@@ -30,7 +30,7 @@ numpy==1.21.6
 ## Citation
 If you find **2LTTA** useful for your research, please cite the following papers.
 
-### IJCNN 2025 (Extended Version – Preferred)
+### IJCNN 2025
 ```bibtex
 @inproceedings{lei2025twolevel,
   author    = {Lei, Jixiang and Pernkopf, Franz},
