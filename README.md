@@ -2,9 +2,15 @@
 Code for the paper "Two-Level Test-Time Adaptation in Multimodal Learning" (ICML 2024 FM-Wild Workshop))
 
 ## Benchmarks
-We utilized the VGGSound and Kinetics datasets in our experiments. Corruptions for both video and audio modalities were generated following the implementation provided in the READ repository: https://github.com/XLearning-SCU/2024-ICLR-READ. All datasets should be placed in the "data_path" directory under the project root.
 
-## Reprocude
+We conduct experiments on the **VGGSound** and **Kinetics** datasets.
+Corruptions for both video and audio modalities are generated following the
+implementation provided in the **READ** repository
+([GitHub](https://github.com/XLearning-SCU/2024-ICLR-READ)).
+All datasets should be placed in the `data_path` directory under the project root.
+
+
+## Reproduce
 python run_read.py --dataset 'ks50' --json-root 'code_path/json_csv_files/ks50' --label-csv 'code_path/json_csv_files/class_labels_indices_ks50.csv' --pretrain_path 'code_path/pretrained_model/cav_mae_ks50.pth' --tta-method '2LTTA' --severity-start 5 --severity-end 5 --corruption-modality 'video'
 
 ## Enviroments
