@@ -3,7 +3,7 @@
 Official code release for the paper  
 **Two-Level Test-Time Adaptation in Multimodal Learning**
 
-## 📄 Papers
+## Papers
 
 - **ICML 2024 FM-Wild Workshop**  
   [OpenReview PDF](https://openreview.net/pdf?id=n0lDbIKVAT)
